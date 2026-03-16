@@ -79,4 +79,19 @@ This project tied together multiple Python concepts into a small but realistic i
 
 ---
 
+## Google Colab Notebooks
+
+The exercises were completed using Google Colab notebooks provided during the bootcamp.
+
+Day 1 Exercises  
+https://colab.research.google.com/drive/1vy7havrZxVtOt7SkM9TxUncMWxyvXRZJ?usp=sharing
+
+Day 2 Exercises  
+https://colab.research.google.com/drive/1u8qrgqtINSA6yDfhQiR7w8O3VrrB1GzI?usp=sharing
+
+ATM Simulation Notebook  
+https://colab.research.google.com/drive/14sUrJgsfJrYKzb_wehBrCaOJTG3uCu7m?usp=sharing
+
+---
+
 This project represents my **first structured work with Python** during the bootcamp and provides a foundation for moving into **data analysis with libraries like Pandas and visualization tools**.
